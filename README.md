@@ -34,7 +34,7 @@ N/A
 
 ## Usage
 
-Simply enter text in any one of the hour text boxes and click the "save" button at right to save the text. Color coding next to each text box indicates whether items are past due (grey), due currently (red), or due in the future (green). Text in each of the boxes is saved in local storage. The schedule can be cleared simply by deleting and re-saving.
+Simply enter text in any one of the text boxes on the daily calendar and click the "save" button at right to save the text. Color coding next to each text box indicates whether items are past due (grey), due currently (red), or due in the future (green). Text in each of the boxes is saved in local storage. The schedule can be cleared simply by deleting and re-saving.
 
 ## License
 

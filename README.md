@@ -52,3 +52,5 @@ N/A
 
 If you have any questions about the repo, open an issue or contact Joe Merrell (me) directly at joe@uhhuhohyeah.com. You can find more of my work at my github account: https://github.com/JoeMerrell
 
+<img src="assets/images/screenshot.jpg">
+

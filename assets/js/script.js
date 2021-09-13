@@ -31,7 +31,7 @@ $(document).ready(function () {// tells engine to load html and css first
         // loop over time blocks
         $(".time-block").each(function () {
             var blockHour = parseInt($(this).attr("id").split("hour")[1]);
-            console.log(blockHour, currentHour)
+            // console.log(blockHour, currentHour)
 
             //check if we've moved past this time
             if (blockHour < currentHour) {
